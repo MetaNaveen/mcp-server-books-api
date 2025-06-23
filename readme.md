@@ -65,7 +65,7 @@ nodemon
 }
 ```
 
-- Click `Start` or `Restart` option shown on stop of `books-mcp-server-api`.
+- Click `Start` or `Restart` option shown on top of `books-mcp-server-api`.
 
 ## Credits
 - https://github.com/karthikeyanVK/ and his team for the efforts they put to make me understand the topic.
